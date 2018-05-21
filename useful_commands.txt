@@ -1,0 +1,2 @@
+To start venv: source myvenv/bin/activate
+To run server: python manage.py runserver
